@@ -16,6 +16,6 @@ Our research aims to provide an accurate prediction on the stock prices of the T
 ## Setup
 * download the zip of the repository
 * unzip and upload it to the root directory of your google drive
-* open the ***final_save.ipynb*** and execute all (Note that you might suffer *out of RAM* problem when you are trying to train all the 50 models, therefore it is recommended to train a small portion of models at a time by modifying the _company\_list_ in the second code block)
+* open the ***final_save.ipynb*** and execute all
 * open the ***final_predict.ipynb*** and execute all
 * your result will be in the folder ***0050-1224*** 
