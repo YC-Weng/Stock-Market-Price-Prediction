@@ -1,5 +1,16 @@
 # Stock-Market-Price-Prediction
 Our research aims to provide an accurate prediction on the stock prices of the Taiwan 50 Index. Therefore, we had conducted numerous experiments and tried different features along with different models in order to minimize the difference between the predicted prices and the real prices. After weeks of adjustment, we had our best models and best selected features according to different stocks.
-## Training Data
+## Data
+| Folder        | Start Day     | End Day     | Purpose     |
+| ------------- | ------------- | ----------- | --------    |
+| 0050-KY       | 2022-11-14    | 2023-11-10  | Training    |
+| 0050-K        | the day the stock was listed  | 2023-12-8 | Training  |
+| 0050-1224     | 2023-9-26     | 2023-12-22  | Prediction  |
+## Files
+| File                  | Purpose |
+| -------------         | ------- | 
+| final_model.csv       | recording the selected hyperparameters for each stock    | 
+| final_save.ipynb      | training the models using the selected hyperparameters and saving them to a folder  | 
+| final_predict.ipynb   | using the trained models to make predictions     | 
 
 ## Setup
