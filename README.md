@@ -24,7 +24,7 @@ Our research aims to provide an accurate prediction on the stock prices of the T
 _plot.png_
 ![Result Image](/Images/result.png)
 _prediction.csv_
-![Prediction Image)(/Images/prediction.csv)
+![Prediction Image](/Images/prediction.png)
 
 ## Model Performance
 Since each stock has its own model, it has its own MSE and MAE too. They are both displayed on every _plot.png_. There is also an overview of the MSE and MAE of each stock according to the model and features we chosen in the file ***final_model.csv***.
