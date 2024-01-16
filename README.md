@@ -19,3 +19,15 @@ Our research aims to provide an accurate prediction on the stock prices of the T
 * open the ***final_save.ipynb*** and execute all
 * open the ***final_predict.ipynb*** and execute all
 * your result will be in the folder ***0050-1224*** 
+
+## Output Example
+_plot.png_
+![Result Image](/Images/result.png)
+_prediction.csv_
+![Prediction Image)(/Images/prediction.csv)
+
+## Model Performance
+Since each stock has its own model, it has its own MSE and MAE too. They are both displayed on every _plot.png_. There is also an overview of the MSE and MAE of each stock according to the model and features we chosen in the file ***final_model.csv***.
+
+## Contact Us
+If you have any question, please contact me with e-mail(yuchenweng7@gmail.com).
